@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habili
 Meu objetivo é ingressar no mercado de tecnologia e atuar como Desenvolvedor Back-End, colocando em prática tudo o que venho estudando.
 
 
- <p align="left">
+<p align="left">
       <a>  
       <a href="https://github.com/Caiquest?tab=followers">
          <img 
@@ -19,15 +19,35 @@ Meu objetivo é ingressar no mercado de tecnologia e atuar como Desenvolvedor Ba
             alt="Total de estrelas" 
             title="Total de estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Caiquest?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-   </p>
+</p>
+
+---
+
+### 🌐 Contatos
+
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:caiquemst020@gmail.com" title="Email" style="outline:none;">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="outline:none;" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/_caiqueesantos_/" title="Instagram" style="outline:none;">
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="outline:none;" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/caique-moraes-4214782a3" title="LinkedIn" style="outline:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="outline:none;" />
+  </a>
+</p>
 
 
-   ---
+
+---
 
 ### 🤖 Linguagens e Tecnologias 
 
-
-    
 <img  
     align="left" 
     alt="PYTHON"
@@ -43,7 +63,6 @@ Meu objetivo é ingressar no mercado de tecnologia e atuar como Desenvolvedor Ba
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
 
 <img 
     align="left" 
@@ -71,15 +90,3 @@ Meu objetivo é ingressar no mercado de tecnologia e atuar como Desenvolvedor Ba
     height="150" 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiquest&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" />
-
-
-
-
-
-
-          
-          
-          
-
-          
-   
