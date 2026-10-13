@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Caique Moraes, tenho 20 anos e sou de Sertãozinho - SP. Atualmente curso Análise e Desenvolvimento de Sistemas na UNIP - Universidade Paulista. 
+Me chamo Caique Moraes, tenho 21 anos e sou de Sertãozinho - SP. Atualmente curso Análise e Desenvolvimento de Sistemas na UNIP - Universidade Paulista. 
 Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e aprender novas ferramentas e linguagens.
-Meu objetivo é ingressar no mercado de tecnologia e atuar como Desenvolvedor Back-End, colocando em prática tudo o que venho estudando.
+Meu objetivo é ingressar no mercado de tecnologia e atuar como Desenvolvedor Back-End tendo Java como Stack, colocando em prática tudo o que venho estudando.
 
 
 <p align="left">
